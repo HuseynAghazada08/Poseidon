@@ -1,0 +1,19 @@
+{
+  "storage_file": "data/readings.json",
+  "historical_data_file": "data/historical_readings.csv",
+  "host": "0.0.0.0",
+  "port": 8000,
+  "thresholds": {
+    "speed_safe": 10.0,
+    "speed_moderate": 15.0,
+    "speed_danger": 22.0,
+    "draft_safe": 6.0,
+    "draft_moderate": 9.0,
+    "draft_danger": 12.0
+  },
+  "map_config": {
+    "default_zoom": 5,
+    "map_style": "carto-positron",
+    "center": { "lat": 54.5, "lon": 8.5 }
+  }
+}

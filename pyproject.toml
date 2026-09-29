@@ -1,5 +1,5 @@
 [project]
-name = "poseidon-aqms"
+name = "poseidon"
 version = "0.1.0"
 description = "Maritime Vessel Traffic Monitor - North Sea & Baltic"
 readme = "README.md"
